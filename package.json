@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "name": "basic-node-app",
+  "description": "This is a Basic Node App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Owner avatar"
+  },
+  "author": "Nitin Rajput",
+  "license": "ISC"
+}
